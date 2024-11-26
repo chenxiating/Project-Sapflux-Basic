@@ -1,6 +1,6 @@
 # Project-Sapflux-Basic
 
-Hardware designs for simplified PCBs for sapflux monitoring. Designed as a simplified PCB implementation of existing of hand wired designs created by [Xiating Chen](https://github.com/chenxiating)
+Hardware designs for simplified PCBs for sapflux monitoring. Designed as a simplified PCB implementation of existing of hand wired designs created by [Xiating Chen](https://github.com/chenxiating) and [Bobby Schulz](https://github.com/bschulz1701).
 
 # Repo Roadmap
 <!-- #### [Documents](Documents/)
